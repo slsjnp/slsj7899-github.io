@@ -1,4 +1,5 @@
 ---
+theme: jekyll-theme-cayman
 title: Minimal Text
 baseurl: "/Minimal-Text"
 desc: A minimal blog for off-topic blog entries.
